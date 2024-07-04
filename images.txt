@@ -1,1 +1,1 @@
-mysql:latest
+langgenius/dify-sandbox:0.2.1
